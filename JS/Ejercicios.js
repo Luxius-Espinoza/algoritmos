@@ -49,5 +49,3 @@ function edad(anio){
     let fecha = new Date()
     return fecha.getFullYear()-anio
 }
-
-//Ejercicio 10 - Obtener la persona menor
